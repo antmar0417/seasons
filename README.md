@@ -1,7 +1,7 @@
 # Author: Anton Marinov
 # Project name: - Seasons
 
-![Alt Text](<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/dw3LVADjxoCU70PssN" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/owainwynevans-dw3LVADjxoCU70PssN">via GIPHY</a></p>)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 # Getting Started with Create React App
 
