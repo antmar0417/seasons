@@ -3,7 +3,7 @@
 
 # Getting Started with Create React App
 
-![](http://i.imgur.com/OUkLi.gif)
+![](https://media4.giphy.com/media/dw3LVADjxoCU70PssN/giphy.gif?cid=ecf05e47ql2rtlterygwwbqxvu1jkadhdf708dyk7cgjsg5b&rid=giphy.gif&ct=g)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
