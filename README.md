@@ -3,7 +3,7 @@
 
 # Getting Started with Create React App
 
-<gif src="https://giphy.com/embed/dw3LVADjxoCU70PssN" width="480" height="269" frameBorder="0" class="giphy-embed" />
+![](http://i.imgur.com/OUkLi.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
