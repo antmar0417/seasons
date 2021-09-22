@@ -1,11 +1,9 @@
 # Author: Anton Marinov
 # Project name: - Seasons
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="150" height="150" />
-<img src="https://giphy.com/embed/dw3LVADjxoCU70PssN" width="480" height="269" />
 # Getting Started with Create React App
 
-<img src="https://giphy.com/embed/dw3LVADjxoCU70PssN" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen /><p><a href="https://giphy.com/gifs/owainwynevans-dw3LVADjxoCU70PssN">via GIPHY</a></p>
+<img src="https://giphy.com/embed/dw3LVADjxoCU70PssN" width="480" height="269" frameBorder="0" class="giphy-embed" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
