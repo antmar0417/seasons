@@ -1,25 +1,25 @@
-import React from 'react';
- 
+import React from "react";
+
 var months = [
-  'January',
-  'February',
-  'March',
-  'April',
-  'May',
-  'June',
-  'July',
-  'August',
-  'September',
-  'October',
-  'November',
-  'December',
+  "January",
+  "February",
+  "March",
+  "April",
+  "May",
+  "June",
+  "July",
+  "August",
+  "September",
+  "October",
+  "November",
+  "December",
 ];
- 
-class Date1 extends React.Component {
+
+class Date extends React.Component {
   state = {
-    month: '',
-    day: '',
-    year: '',
+    month: "",
+    day: "",
+    year: "",
   };
   componentDidMount() {
     setInterval(() => {
@@ -40,4 +40,4 @@ class Date1 extends React.Component {
     else return <div>Loading...</div>;
   }
 }
-export default Date1;
+export default Date;
